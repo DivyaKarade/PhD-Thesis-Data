@@ -60,7 +60,7 @@ The predicted drug-like and lead-like molecules were evaluated using chemoinform
 ### Citation
 For citation: 
 
-> 1. Divya Karade, Durairaj Vijayasarathi, Narendra Kadoo, Renu Vyas, P.K. Ingle and Muthukumarasamy Karthikeyan (2020). Design of Novel Drug-like Molecules Using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants. *Combinatorial Chemistry & High Throughput Screening*. 23: 1113. (https://doi.org/10.2174/1386207323666200606211342) 
+> 1. Divya Karade, Durairaj Vijayasarathi, Narendra Kadoo, Renu Vyas, P.K. Ingle and Muthukumarasamy Karthikeyan (2020). Design of Novel Drug-like Molecules Using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants. *Combinatorial Chemistry & High Throughput Screening*. 23: 1113. (https://pubmed.ncbi.nlm.nih.gov/32504496/) 
 
 > 2. Divya Karade. (2021). Design of Novel Drug-like Molecules using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants (Thesis Chapter 2). *Zenodo.* (https://doi.org/10.5281/zenodo.5637174)
 
