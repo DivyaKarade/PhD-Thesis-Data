@@ -48,7 +48,7 @@ Secondary metabolites produced by plants are valuable for their essential roles 
 ### Citation
 For citation: 
 
-> Divya Karade. (2021). Chemoinformatics based investigation of plant metabolites for their medicinal and crop protection values - Introduction and Review of Literature (Thesis Chapter 1). *Zenodo.* (https://doi.org/10.5281/zenodo.5637086)
+> Divya Karade. (2021). Chemoinformatics based investigation of plant metabolites for their medicinal and crop protection values - Introduction and Review of Literature. *Zenodo.* (https://doi.org/10.5281/zenodo.5637086)
 
 
 ## Chapter-2
@@ -62,7 +62,7 @@ For citation:
 
 > 1. Divya Karade, Durairaj Vijayasarathi, Narendra Kadoo, Renu Vyas, P.K. Ingle and Muthukumarasamy Karthikeyan (2020). Design of Novel Drug-like Molecules Using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants. *Combinatorial Chemistry & High Throughput Screening*. 23: 1113. (https://pubmed.ncbi.nlm.nih.gov/32504496/) 
 
-> 2. Divya Karade. (2021). Design of Novel Drug-like Molecules using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants (Thesis Chapter 2). *Zenodo.* (https://doi.org/10.5281/zenodo.5637174)
+> 2. Divya Karade. (2021). Design of Novel Drug-like Molecules using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants. *Zenodo.* (https://doi.org/10.5281/zenodo.5637174)
 
 ## Chapter-3
 ### Bridging In-Silico and Experimental: Chemoinformatics Investigation for Mass Spectrometry-Based Metabolomics Study of Soybean (Thesis Chapter 3)
@@ -75,7 +75,7 @@ The metabolomics data (MS-1) reported in this chapter are available at METASPACE
 ### Citation
 For citation: 
 
-> Divya Karade. (2021). Bridging In-Silico and Experimental: Chemoinformatics Investigation for Mass Spectrometry-Based Metabolomics Study of Soybean (Thesis Chapter 3). *Zenodo.* (https://doi.org/10.5281/zenodo.5637185)
+> Divya Karade. (2021). Bridging In-Silico and Experimental: Chemoinformatics Investigation for Mass Spectrometry-Based Metabolomics Study of Soybean. *Zenodo.* (https://doi.org/10.5281/zenodo.5637185)
 
 ## Chapter-4
 ### Chemoinformatics Investigation on Chemical Defense in Plants (Thesis Chapter 4)
@@ -84,7 +84,7 @@ Chemical defense against predation has been studied for a long time. Plants prod
 ### Citation
 For citation: 
 
-> Divya Karade. (2021). Chemoinformatics Investigation on Chemical Defense in Plants (Thesis Chapter 4). *Zenodo.* (https://doi.org/10.5281/zenodo.5637187)
+> Divya Karade. (2021). Chemoinformatics Investigation on Chemical Defense in Plants. *Zenodo.* (https://doi.org/10.5281/zenodo.5637187)
 	
 ## Future_directions
 The major aim of this study was to design novel molecules (drug-like, lead-like, and pesticide-like) based on the metabolomics of Indian medicinal and aromatic plants, food crops i.e., soybean, and plants involved in chemical defense through chemoinformatics approach. This study has predicted several potential novel molecules concerning drugs and pesticides, which can be investigated in detail in the future. Thus, the study can have the following future directions:
