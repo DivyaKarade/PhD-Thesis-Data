@@ -11,7 +11,7 @@
   <a href="#Chapter-2">Chapter-2</a> •
   <a href="#Chapter-3">Chapter-3</a> •
   <a href="#Chapter-4">Chapter-4</a> •
-  <a href="#Future directions">Future directions</a> •
+  <a href="#Future directions">Future directions</a>
 </p>
 
 <p align="center">
