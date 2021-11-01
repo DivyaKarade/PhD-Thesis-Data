@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="#Chapter 1">Chapter 1</a> •
-  <a href="#Chapter 2">Chapter 2</a> •
-  <a href="#Chapter 1">Chapter 3</a> •
-  <a href="#Chapter 2">Chapter 4</a> 
+  <a href="#Chapter-1">Chapter-1</a> •
+  <a href="#Chapter-2">Chapter-2</a> •
+  <a href="#Chapter-3">Chapter-3</a> •
+  <a href="#Chapter-4">Chapter-4</a> 
 </p>
 
 <p align="center">
@@ -18,19 +18,73 @@
     <img src='https://img.shields.io/badge/License-MIT-blue.svg' alt='License'/>
   </a>
   
-  <a href="https://zenodo.org/record/5637086#.YYBEl55BzIU">
-    <img src="https://zenodo.org/record/5637086#.YYBEl55BzIU" alt="DOI">
+  <a href="https://doi.org/10.2174/1386207323666200606211342">
+    <img src="https://img.shields.io/badge/DOI-10.2174-blue.svg?logo=10.2174" alt="DOI">
+  </a>
+	
+  <a href="https://zenodo.org/record/5637086#.YYBIa55BzIU">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5637086.svg" alt="DOI">
   </a>
   
   <a href="https://zenodo.org/record/5637174#.YYBH2Z5BzIU">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5637174.svg" alt="DOI">
   </a>
+	
+  <a href="https://zenodo.org/record/5637185#.YYBI0p5BzIU">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5637185.svg" alt="DOI">
+  </a>
+	
+  <a href="https://zenodo.org/record/5637187#.YYBI-Z5BzIU">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5637187.svg" alt="DOI">
+  </a>
 
 </p>
 
-# PhD-Thesis-Data
+## Chapter-1
+### Introduction and Review of Literature
+Secondary metabolites produced by plants are valuable for their essential roles in food, medicine, and agrochemicals. Several of them have positive effects on health, such as reducing the risks of many chronic diseases like cardiovascular diseases, diabetes and cancer. They also show a wide range of pest control activities and have long been used to produce pesticides. However, the information about the classification of secondary metabolites and their known protein targets in human diseases is scattered in many publications. Furthermore, large data of published findings are available, which needs to be analyzed and managed for the best use and efficacy of the available products. Chemoinformatics techniques can use the vast chemical and bioactivity experimental data of various compounds and convert it into valuable knowledge for drug or lead design. Chemoinformatics tools and other in-silico drug designing software play an important role in designing novel drugs with no or fewer side effects and other drug interactions. We performed chemoinformatic analysis for ligand-based drug designing from secondary metabolites of plants. The analysis revealed that several bioactive compounds could serve as scaffolds for developing novel drugs, which can be analyzed further by experimental methods. Lipinski’s “Rule of Five” approach was quickly adopted in the field of agrochemical discovery and led to the establishment of rules for pesticide-likeness. The challenges identified in this study will serve as a useful reference for future intensive research in drug and pesticide discovery.
 
-Bioactive compounds produced by plants are valuable as food, medicine, and biopesticides. While several medicinally important plants have been studied for their bioactive properties, many more are yet to be explored. In this study, we used chemoinformatics methods to design novel drug-like and lead-like molecules inspired by organic metabolites of Indian medicinal and aromatic plants and food crops such as soybean. The names of organic metabolites were identified and selected from literature through text mining. Common scaffolds were identified between organic metabolites and drug molecules that show drug- or lead-like properties based on the computed 2D descriptors such as molecular weight, number of hydrogen bond donor atoms, number of rotatable bonds, number of rings, etc. Integrated knowledge of chemical scaffold composition and similarity with drug molecules has the potential to reveal prospective metabolite relationships with biological activities. With the help of in-house developed chemoinformatics tools, diverse scaffolds were used for building a focused virtual library. Further, the new virtual molecules annotated with desired properties can serve as readymade libraries for experimental screening in the context of drug discovery. Through network analysis, protein targets involved in various chronic disease-related pathways for the bioactive compounds present in food crops and Indian medicinal plants were also depicted. 
-	To corroborate the results, we also performed UHPLC-MS/MS experiments of leaf and seed tissues of four soybean varieties grown in a plot at the Biochemical Sciences Division in CSIR-NCL, Pune. A general sample extraction procedure was performed with 70% methanol, and untargeted LC-MS metabolomics analysis was followed. The raw data were processed using various tools like XCMS Online, PUTMEDID-LCMS workflow in the taverna environment, ProbMetab in R environment, etc. We detected 6628 annotated mass features and identified 443 small molecules out of 1622 previously reported molecules in soybean through untargeted UHPLC/MS experiments with these analyses. We also identified 14 new soybean molecules that were not reported in soybean before and 06 previously reported soybean molecules confirmed by Tandem mass spectrometry (MS/MS). The methodology allows efficient detection and annotation of a large number of small organic molecules by merging previously known biosynthetic pathways from KEGG to that of the plant species by compound substructure sharing. Untargeted metabolomics revealed the global picture of the metabolite composition of leaf and seeds in the four soybean varieties, which included different classes of metabolites. This will help to understand the significant correlation between varieties and tissues that will make better decisions to select varieties and tissues containing high amounts of the target metabolite for drug development.
-	Integrated knowledge of chemical scaffold composition and similarity with drug molecules reveals prospective metabolite relationship with biological activities. The scaffold network analysis revealed 14 scaffolds and 73 common molecules between previously reported soybean molecules and approved drugs. Similarly, 184 common soybean molecules were identified from the network of soybean molecules identified by UHPLC/MS experiments. A virtual library of novel molecules (n=1225) was generated from previously reported soybean molecules (n=5), as an example to establish the systematic approaches for drug designing. Further, the new virtual molecules annotated with desired properties (TPC, PDL, and PLL scores) can serve as readymade libraries for experimental screening. 
-	This study demonstrates the application of chemoinformatics tools and UHPLC-MS/MS metabolomics to reveal both the previously known and novel molecules. These molecules can be analyzed in silico and those with desired properties (such as drug-like, lead-like, pesticide-like, etc.) can be chosen for subsequent targeted isolation. Thus, the study would enable the identification and isolation of the desired bioactive molecules from plants. Similarly, we have also designed allelochemicals-specific environment-friendly novel molecules inspired by pesticidal activities through the chemoinformatics approach. Further, we also developed a chemoinformatics open-source toolkit DoMINE (Database of Medicinally Important Natural products from plantaE) using Java. It can be used to build and access the Indian medicinal plant, soybean, and pesticide-inspired allelochemical molecular database created in this study, as well as to generate scaffold and virtual library.
+### Citation
+For citation: 
+
+> Divya Karade. (2021). Chemoinformatics based investigation of plant metabolites for their medicinal and crop protection values - Introduction and Review of Literature (Thesis Chapter 1). *Zenodo.* (https://doi.org/10.5281/zenodo.5637086)
+
+
+## Chapter-2
+### Design of Novel Drug-like Molecules using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants
+Several medicinal plants are being used in Indian medicine systems since ancient times. However, in most cases, the specific molecules or the active ingredients responsible for the medicinal or therapeutic properties are not yet known. The objective of this study was to develop a computational protocol as well as a tool for generating novel potential drug candidates from the bioactive molecules of Indian medicinal and aromatic plants through the chemoinformatics approach. We employed chemoinformatics approaches to in-silico screened metabolites from 104 Indian medicinal and aromatic plants and designed novel drug-like bioactive molecules. For this purpose, 1665 ring-containing molecules were identified by text mining of literature related to the medicinal plant species, which were later used to extract 209 molecular scaffolds for building a focused virtual library. Virtual screening was performed with cluster analysis to predict drug-like and lead-like molecules from these plant molecules in the context of drug discovery.
+
+The predicted drug-like and lead-like molecules were evaluated using chemoinformatics approaches and statistical parameters, and only the most significant molecules were proposed as the candidate molecules to develop new drugs. A supra network of molecules and scaffolds identifying the relationships between the plant molecules and drugs was developed. Cluster analysis of virtual library molecules showed that the novel molecules had more pharmacophoric properties than toxicophoric and chemophoric properties. These predicted molecules need to be subjected to biological screening to identify potential molecules for drug discovery research. We also developed a Java-based open-source toolkit-cum-database called DoMINE (Database of Medicinally Important Natural products from plantaE) to advance the natural product-based drug discovery through chemoinformatics approaches. This study will be useful in developing new drug molecules from the known medicinal plant molecules. We hope that this work will encourage experimental organic chemists to synthesize these molecules based on the predicted values.
+
+### Citation
+For citation: 
+
+> 1. Divya Karade, Durairaj Vijayasarathi, Narendra Kadoo, Renu Vyas, P.K. Ingle and Muthukumarasamy Karthikeyan (2020). Design of Novel Drug-like Molecules Using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants. *Combinatorial Chemistry & High Throughput Screening*. 23: 1113. (https://doi.org/10.2174/1386207323666200606211342) 
+
+> 2. Divya Karade. (2021). Design of Novel Drug-like Molecules using Informatics Rich Secondary Metabolites Analysis of Indian Medicinal and Aromatic Plants (Thesis Chapter 2). *Zenodo.* (https://doi.org/10.5281/zenodo.5637174)
+
+## Chapter-3
+### Bridging In-Silico and Experimental: Chemoinformatics Investigation for Mass Spectrometry-Based Metabolomics Study of Soybean (Thesis Chapter 3)
+Soybean (Glycine max L. Merr.) is a globally important legume crop and contains various small organic molecules that are valuable sources for drug development. This study intended to identify, analyze and design a virtual library of prioritized novel and promising drug-like molecules based on the analysis of secondary metabolites of soybean using chemoinformatics and untargeted mass spectrometry (UHPLC-MS/MS) approaches. In this study, we performed chemoinformatics analysis of previously reported and unreported secondary metabolites from four soybean varieties. The secondary metabolites were identified by UHPLC-MS/MS analysis and text mining, and a virtual library of novel molecules was generated. The metabolomics data were analyzed using machine learning-based quantitative and qualitative methods for identifying putative metabolites by spectral matching and multivariate statistical analysis. A representative virtual library of novel molecules was generated and prioritized further by virtual screening methods. We detected 6628 annotated mass features for small molecules that have not been reported in soybean before, in addition to 443 mass features of molecules that were previously reported in the literature. Tandem mass spectrometry (MS/MS) confirmed the presence of 14 new and six previously reported soybean molecules. We found high molecular diversity in seed and leaf tissues of four soybean varieties (NRC-119, JS-335, JS-7105, and JS-9305). We identified 25 common scaffolds and 231 molecules through scaffold-molecule networks between soybean molecules and known drugs. Five representative scaffolds were used to build a focused virtual library of novel molecules (n= 1225), which were virtually screened to obtain potential drug-like candidates (n= 815) for further studies. We developed a novel virtual library of molecules with drug-like and lead-like properties for further drug discovery-related studies. This study suggests that a combinatorial approach employing high-throughput metabolomics and chemoinformatics methods can efficiently identify new drug-like and lead-like candidates from plant metabolites.
+
+### Citation
+For citation: 
+
+> Divya Karade. (2021). Bridging In-Silico and Experimental: Chemoinformatics Investigation for Mass Spectrometry-Based Metabolomics Study of Soybean (Thesis Chapter 3). *Zenodo.* (https://doi.org/10.5281/zenodo.5637185)
+
+## Chapter-4
+### Chemoinformatics Investigation on Chemical Defense in Plants (Thesis Chapter 4)
+Chemical defense against predation has been studied for a long time. Plants produce many secondary metabolites called allelochemicals to protect themselves against herbivores, pests and pathogens. In this study, we performed chemoinformatics investigations to build combinatorial libraries of allelochemicals that were then quantitatively evaluated for their pesticide properties. We identified five common scaffolds and 15 common molecules through scaffold-molecule networks between allelochemicals and pesticides. Scaffolds (74) were extracted from allelochemicals used for building a focused virtual library of novel molecules (380). We propose new virtual molecules with pesticide-likeness properties according to rules published by Hao et al. (2011) (Hao, Dong and Yang 2011) for further agrochemical studies. Their LC-50 and EC-50 values for daphnid, mysids, algae, and fishes like Fathead minnow, etc., were predicted by ECOSAR- QSAR methods. These values indicate their lethal concentration for lower aquatic organisms, which will be used for their pesticide activities. This study shows that a combinatorial approach employing QSAR studies provides a novel perspective to the future directions for pesticides of natural origin.
+
+### Citation
+For citation: 
+
+> Divya Karade. (2021). Chemoinformatics Investigation on Chemical Defense in Plants (Thesis Chapter 4). *Zenodo.* (https://doi.org/10.5281/zenodo.5637187)
+	
+## Future directions
+The major aim of this study was to design novel molecules (drug-like, lead-like, and pesticide-like) based on the metabolomics of Indian medicinal and aromatic plants, food crops i.e., soybean, and plants involved in chemical defense through chemoinformatics approach. This study has predicted several potential novel molecules concerning drugs and pesticides, which can be investigated in detail in the future. Thus, the study can have the following future directions:
+1.	Isolation of target molecules from plants and their confirmation through wet-lab analyses 
+2.	Performing bioactivity studies to confirm their bioactive potentials 
+3.	Employing the active molecules towards synthesis of drugs, pesticides, etc. and their efficacy studies
+4.	Investigating other sources of natural products for drug development.
+
