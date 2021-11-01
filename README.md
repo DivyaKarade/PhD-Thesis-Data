@@ -1,3 +1,33 @@
+<h1 align="center">
+  Chemoinformatics based investigation of plant metabolites for their medicinal and crop protection values
+</h1>
+
+<p align="center">
+    <b>PhD Thesis Supplementary Data</b>
+</p>
+
+<p align="center">
+  <a href="#Chapter 1">Chapter 1</a> •
+  <a href="#Chapter 2">Chapter 2</a> •
+  <a href="#Chapter 1">Chapter 3</a> •
+  <a href="#Chapter 2">Chapter 4</a> 
+</p>
+
+<p align="center">
+  <a href='https://opensource.org/licenses/MIT'>
+    <img src='https://img.shields.io/badge/License-MIT-blue.svg' alt='License'/>
+  </a>
+  
+  <a href="https://zenodo.org/record/5637086#.YYBEl55BzIU">
+    <img src="https://zenodo.org/record/5637086#.YYBEl55BzIU" alt="DOI">
+  </a>
+  
+  <a href="https://zenodo.org/record/5637174#.YYBH2Z5BzIU">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5637174.svg" alt="DOI">
+  </a>
+
+</p>
+
 # PhD-Thesis-Data
 
 Bioactive compounds produced by plants are valuable as food, medicine, and biopesticides. While several medicinally important plants have been studied for their bioactive properties, many more are yet to be explored. In this study, we used chemoinformatics methods to design novel drug-like and lead-like molecules inspired by organic metabolites of Indian medicinal and aromatic plants and food crops such as soybean. The names of organic metabolites were identified and selected from literature through text mining. Common scaffolds were identified between organic metabolites and drug molecules that show drug- or lead-like properties based on the computed 2D descriptors such as molecular weight, number of hydrogen bond donor atoms, number of rotatable bonds, number of rings, etc. Integrated knowledge of chemical scaffold composition and similarity with drug molecules has the potential to reveal prospective metabolite relationships with biological activities. With the help of in-house developed chemoinformatics tools, diverse scaffolds were used for building a focused virtual library. Further, the new virtual molecules annotated with desired properties can serve as readymade libraries for experimental screening in the context of drug discovery. Through network analysis, protein targets involved in various chronic disease-related pathways for the bioactive compounds present in food crops and Indian medicinal plants were also depicted. 
