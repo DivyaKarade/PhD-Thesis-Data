@@ -11,7 +11,7 @@
   <a href="#Chapter-2">Chapter-2</a> •
   <a href="#Chapter-3">Chapter-3</a> •
   <a href="#Chapter-4">Chapter-4</a> •
-  <a href="#Future directions">Future directions</a>
+  <a href="#Future directions">Future_directions</a>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ For citation:
 
 > Divya Karade. (2021). Chemoinformatics Investigation on Chemical Defense in Plants (Thesis Chapter 4). *Zenodo.* (https://doi.org/10.5281/zenodo.5637187)
 	
-## Future directions
+## Future_directions
 The major aim of this study was to design novel molecules (drug-like, lead-like, and pesticide-like) based on the metabolomics of Indian medicinal and aromatic plants, food crops i.e., soybean, and plants involved in chemical defense through chemoinformatics approach. This study has predicted several potential novel molecules concerning drugs and pesticides, which can be investigated in detail in the future. Thus, the study can have the following future directions:
 1.	Isolation of target molecules from plants and their confirmation through wet-lab analyses 
 2.	Performing bioactivity studies to confirm their bioactive potentials 
