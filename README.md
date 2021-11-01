@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <b>PhD Thesis Supplementary Data</b>
+    <b>PhD Thesis</b>
 </p>
 
 <p align="center">
