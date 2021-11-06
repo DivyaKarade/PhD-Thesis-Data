@@ -19,7 +19,7 @@
     <img src='https://img.shields.io/badge/License-MIT-blue.svg' alt='License'/>
   </a>
   
-  <a href="https://doi.org/10.2174/1386207323666200606211342">
+  <a href="https://pubmed.ncbi.nlm.nih.gov/32504496/">
     <img src="https://img.shields.io/badge/DOI-10.2174-blue.svg?logo=10.2174" alt="DOI">
   </a>
 	
