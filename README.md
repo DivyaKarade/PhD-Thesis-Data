@@ -42,7 +42,7 @@
 </p>
 </p>
 
-> The thesis is accessible at the [CSIR-National Chemical Laboratory Digital Repository](http://dspace.ncl.res.in:8080/xmlui/handle/20.500.12252/6005). All the supplementary data is made available at Zenodo and Github as a reviewed Ph.D. thesis work adhering to the FAIR data standards.
+> The thesis is accessible at the [CSIR-National Chemical Laboratory Digital Repository](http://dspace.ncl.res.in:8080/xmlui/handle/20.500.12252/6005). All the supplementary data is made available at Zenodo and GitHub as a reviewed Ph.D. thesis work adhering to the FAIR data standards.
 
 ## Chapter-1
 ### Introduction and Review of Literature
