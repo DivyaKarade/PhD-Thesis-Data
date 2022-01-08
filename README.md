@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <b>PhD Thesis - 2021</b>
+    <b>PhD Thesis - Dec. 2021</b>
 </p>
 
 <p align="center">
