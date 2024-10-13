@@ -42,7 +42,7 @@
 </p>
 </p>
 
-> The thesis is accessible at the [CSIR-National Chemical Laboratory Digital Repository](https://dspace.ncl.res.in/xmlui/handle/20.500.12252/6005). All the supplementary data is made available at Zenodo and GitHub as a reviewed Ph.D. thesis work adhering to the FAIR data standards.
+> The thesis is accessible at the [CSIR-National Chemical Laboratory Digital Repository](http://library.ncl.res.in/content/chemoinformatics-based-investigation-plant-metabolites-their-medicinal-and-crop-protection). All the supplementary data is made available at Zenodo and GitHub as a reviewed Ph.D. thesis work adhering to the FAIR data standards.
 
 ## Chapter-1
 ### Introduction and Review of Literature
